@@ -11,7 +11,7 @@ for ITERATING through SEQUENCES, including selections from:
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
          their colleagues and Hao Jiang.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 
 def main():
