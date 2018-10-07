@@ -307,7 +307,7 @@ def MUTATE_circle(circle, color, n):
     """
 
     circle.center.move_by(n, 0)
-   
+
     circle.fill_color = color
 
     # DONE: 3. First, READ THE ABOVE TEST CODE.
